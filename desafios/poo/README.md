@@ -1,6 +1,15 @@
 # DIO - Trilha Java Básico
 www.dio.me
 
+## Solução
+Como solução ao desafio, foi proposto o seguinte diagrama UML para o componente iPhone:
+![iPhone UML Diagram](iphone-uml-diagram.png "iPhone UML Diagram")
+O diagrama foi elaborado utilizando o [draw.io](https://app.diagrams.net/)  
+A fonte do diagrama está em: [iphone-uml-diagram.drawio](https://github.com/didifive/trilha-java-basico/blob/main/desafios/poo/iphone-uml-diagram.drawio)
+
+
+## Instruções originais do Desafio
+
 #### Autores
 - [Gleyson Sampaio](https://github.com/glysns)
 
